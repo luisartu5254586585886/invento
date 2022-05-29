@@ -1,1 +1,1 @@
-# invento
+# declaracion
